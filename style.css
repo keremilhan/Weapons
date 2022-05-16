@@ -110,3 +110,8 @@ form {
 .name {
     text-transform: capitalize;
 }
+
+.show-upgrade {
+    font-size: 1.2rem;
+    font-weight: bold;
+}
