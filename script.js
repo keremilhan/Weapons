@@ -15,7 +15,7 @@ function displayWeaponItems(weaponItems) {
 
         return `<div class="box">
             <div class="image-container">
-                <img src="/img/${weapon.id}.png" alt="">
+                <img src="img/${weapon.id}.png" alt="">
             </div>
             <div class="name-upgrade">
                 <h3 class="name">${weapon.name} +</h3>
